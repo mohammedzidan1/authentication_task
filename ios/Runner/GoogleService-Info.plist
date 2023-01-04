@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1027239206886-uevgtdors75ohr78mgcavja4k87i8cpv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1027239206886-uevgtdors75ohr78mgcavja4k87i8cpv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC9HYPi0_iRtHHmkiX_tTQz5H_m_Gp4Rzs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1027239206886</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Abs.AI.authenticationTask</string>
+	<key>PROJECT_ID</key>
+	<string>authentication-task-c4384</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authentication-task-c4384.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1027239206886:ios:79f3e0f03e8054a0028027</string>
+</dict>
+</plist>
